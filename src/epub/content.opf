@@ -43,7 +43,7 @@
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10709</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://archive.org/details/princezaleski00shie</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="EBOOK_WIKI_URL" rel="schema:sameAs"/>
