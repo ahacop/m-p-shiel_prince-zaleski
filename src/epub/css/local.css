@@ -109,7 +109,8 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
-blockquote[xml|lang]{
+blockquote[xml|lang],
+blockquote > p[xml|lang]{
 	font-style: italic;
 }
 
