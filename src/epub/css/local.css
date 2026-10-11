@@ -135,7 +135,7 @@ p.reading .alternatives{
 	margin-right: .75em;
 	padding-left: .9em;
 	position: relative;
-	text-align: left;
+	text-align: initial;
 	vertical-align: middle;
 }
 
