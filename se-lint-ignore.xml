@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="local.css">
+		<ignore code="c-025">
+			<reason>The brace before the two alternative letter pairs in the cipher reading is absolutely positioned and centered with top: 50% of its parent element. vh units would position it relative to the viewport instead.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
