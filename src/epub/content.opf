@@ -55,7 +55,7 @@
 		<link href="https://github.com/standardebooks/m-p-shiel_prince-zaleski" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">M. P. Shiel</dc:creator>
 		<meta property="file-as" refines="#author">Shiel, M. P.</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="schema:alternateName" refines="#author">Matthew Phipps Shiell</meta>
 		<link href="https://en.wikipedia.org/wiki/M._P._Shiel" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79109916.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
